@@ -4,9 +4,9 @@
 -   Undergrad in CS @ Chongqing University | Exploring the universe of code
 -   ~2 years  of study~  Back to basics!
 ##     🔧 Tech Stack & Interests
-   - Languages: Python,C++,sql (and learning more!)
+   - Languages: Python,C++, sql (and learning more!)
    - Tools: Git, VS Code
-   - Currently Learning: Java,HTML/CSS, Algorithms, Open-Source
+   - Currently Learning: Java, HTML/CSS, Algorithms, Open-Source
 ##     🚀 My Goals
   -    Contribute to open-source projects
   -    Build practical projects to solve real-world problems
