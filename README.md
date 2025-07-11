@@ -7,10 +7,10 @@
    - Languages: Python,C++,sql (and learning more!)
    - Tools: Git, VS Code
    - Currently Learning: Java,HTML/CSS, Algorithms, Open-Source
-## -    🚀 My Goals
+##     🚀 My Goals
   -    Contribute to open-source projects
   -    Build practical projects to solve real-world problems
-  -    mbrace the "Learn by Doing" philosophy
+  -    Embrace the "Learn by Doing" philosophy
 ##  📫 Let's Connect
   -    Email: [ puuumeng812@163.com ]
   -    Personal Blog: 🚧 Under construction
